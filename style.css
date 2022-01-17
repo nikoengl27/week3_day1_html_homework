@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body > header {
+    padding: 8px;
+    background-color: blueviolet;
+    color: black;
+    text-align: center;
+}
+
+.submit-button {
+    background-color: transparent;
+    border: 3px solid green ;
+}
+
+footer {
+    background-color: blueviolet;
+    color: black;
+    padding: 8px;
+    text-align: center;
+}
+
